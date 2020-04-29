@@ -1,0 +1,6 @@
+body 				 { font-family:sans-serif; background-image:url("restaurant.jpg"); background-repeat: no-repeat;background-size: 100%; }
+ .pane 				 { position : absolute; left: 35%; border: 2px solid; border-radius: 25px; padding: 5px;width:30%;text-align: center;
+                       margin: 8px; border-color: #999999; background-color: #333333; }
+a					 { text-decoration: none; color:#FFFFCC; font-size: .75em; }\
+h1,h2   			 { font-family: 'georgia', serif; margin: : 0;}
+h1 					 { border-bottom: 2px solid #eee; }
